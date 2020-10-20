@@ -24,6 +24,7 @@ In addition, you are also given the solution of assignment 1 as follows:
 ## Problem statement: Deploy a project on Google AppEngine
 
 You are required to:
+Note: All the files and codes were given to me. Just I had to write few lines in the app.py files. Mostly I did using built in functions given to us by google.
 
 1. Complete all preserved parts in [**app.py**](app.py) to build three endpoints:
     1. **list_files**: shows all blobs in a bucket
